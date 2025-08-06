@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/felipe/workspace/development/python/projects/futmondo_assistant/.venv
+set -gx VIRTUAL_ENV /home/felipe/workspace/development/python/projects/fantasy-assistant/.venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
