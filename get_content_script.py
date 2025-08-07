@@ -10,11 +10,6 @@ import unicodedata
 import pandas as pd
 
 
-## LISTA DE TOOLS QUE PUEDE USAR EL AGENTE
-# Obtener URLs de noticias de Google
-# Extraer contenido de una URL
-
-
 def normalize_text(text):
     """
     Elimina tildes y caracteres especiales, dejando solo letras básicas.
