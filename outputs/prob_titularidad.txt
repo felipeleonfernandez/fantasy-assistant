@@ -1,0 +1,6 @@
+{
+  "jugador": "Nombre Apellido",
+  "estado_actual": uno de ["ok", "tocado", "lesionado", "en duda", "sancionado", "recuperado", "baja", "rotación"],
+  "probabilidad_titularidad": número entero entre 0 y 100,
+  "motivos_titularidad": lista de frases breves (mínimo 5) que justifican tu evaluación
+}
